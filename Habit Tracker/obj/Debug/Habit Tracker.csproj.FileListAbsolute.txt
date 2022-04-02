@@ -1,0 +1,17 @@
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\Habit Tracker.exe.config
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\Habit Tracker.exe
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\Habit Tracker.pdb
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.csproj.AssemblyReference.cache
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.csproj.CoreCompileInputs.cache
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.exe
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.pdb
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\EntityFramework.dll
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\System.Data.SQLite.dll
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\EntityFramework.xml
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\bin\Debug\System.Data.SQLite.xml
+C:\Users\megan\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.csproj.CopyComplete
